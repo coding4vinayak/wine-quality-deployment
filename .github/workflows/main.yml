@@ -8,8 +8,8 @@ on:
       - README.md
 
 permissions:
-  id-token: read
-  contents: write
+  id-token: write
+  contents: read
 
 jobs:
   integration:

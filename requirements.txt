@@ -12,5 +12,4 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
-json
 -e .

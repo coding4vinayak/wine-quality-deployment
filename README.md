@@ -151,9 +151,9 @@ export MLFLOW_TRACKING_PASSWORD=663394348b28e120d072de2fb818ce746d363906
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo>>  339712937286.dkr.ecr.us-east-1.amazonaws.com/wine-project
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = wine-project
 
 
 
